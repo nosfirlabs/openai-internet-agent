@@ -3,6 +3,8 @@
 
 This is an internet search agent that uses the OpenAI API and SERP API to search the internet and return relevant results.
 
+Build using `LangChain`: [Repo](https://github.com/hwchase17/langchain)
+
 ## Requirements
 
 -   An API key for the OpenAI API
